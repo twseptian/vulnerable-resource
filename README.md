@@ -1,4 +1,4 @@
-This note contains of the vulnerability to improve your skill on penetration testing and hacking
+This note contains the vulnerability apps to improve your skill on penetration testing and hacking
 
 # Contents
 - [Web Application](#web-application)
