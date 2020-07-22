@@ -66,7 +66,7 @@ This note contains the vulnerability apps to improve your skill on penetration t
 
 ## OS and Hardware
 - [Damn Vulnerable Device Driver (DVDD)](https://github.com/pwk4m1/Damn_Vulnerable_Device_Driver)
-- [Damn Vulnerable ioT Device (DVID)](https://github.com/Vulcainreo/DVID)
+- [Damn Vulnerable IoT Device (DVID)](https://github.com/Vulcainreo/DVID)
 - [Damn Vulnerable Router Firmware (DVRF)](https://github.com/praetorian-code/DVRF)
 - [Damn Vulnerable Raspberry Pi (Sticky Fingers DV-PI)](https://whitedome.com.au/re4son/sticky-fingers-dv-pi/)
 
