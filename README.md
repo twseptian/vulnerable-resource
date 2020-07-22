@@ -59,6 +59,10 @@ This note contains the vulnerability apps to improve your skill on penetration t
 - [Damn Vulnerable Hybrid Mobile (DVHMA)](https://github.com/logicalhacking/DVHMA)
 - [VyAPI - cloud based app as a backend](https://github.com/appsecco/VyAPI)
 
+### Thick Client
+- [Thick Client Application](https://github.com/secvulture/dvta)
+- [Java EE](https://github.com/appsecco/dvja)
+
 ## OS and Hardware
 - [Damn Vulnerable Device Driver (DVDD)](https://github.com/pwk4m1/Damn_Vulnerable_Device_Driver)
 - [Damn Vulnerable ioT Device (DVID)](https://github.com/Vulcainreo/DVID)
