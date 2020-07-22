@@ -3,6 +3,7 @@ This note contains the vulnerability apps to improve your skill on penetration t
 # Contents
 - [Web Application](#web-application)
 - [Mobile Applicaton](#mobile-application)
+- [Thick Client](#thick-client)
 - [OS and Hardware](#os-and-hardware)
 - [Cyber Physical System](#cyber-physical-system)
 - [Cloud Infrastructure](#cloud-infrastructure)
@@ -59,7 +60,7 @@ This note contains the vulnerability apps to improve your skill on penetration t
 - [Damn Vulnerable Hybrid Mobile (DVHMA)](https://github.com/logicalhacking/DVHMA)
 - [VyAPI - cloud based app as a backend](https://github.com/appsecco/VyAPI)
 
-### Thick Client
+## Thick Client
 - [Thick Client Application](https://github.com/secvulture/dvta)
 - [Java EE](https://github.com/appsecco/dvja)
 
