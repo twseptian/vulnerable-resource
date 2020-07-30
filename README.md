@@ -36,6 +36,7 @@ This note contains the vulnerability apps to improve your skill on penetration t
 - [Python Vulnerable API](https://github.com/mattvaldes/vulnerable-api)
 - [Websheep](https://github.com/wishtack/wishtack-websheep)
 - [Damn Vulnerable C# API (DVCsharp-API)](https://github.com/appsecco/dvcsharp-api)
+- [GraphQL security 101](https://github.com/twseptian/graphql-security-labs)
 
 ## Mobile Application
 ### Android
